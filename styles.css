@@ -1,0 +1,167 @@
+body {
+     font-family: 'Courier New', Courier, monospace;
+     background-color:;
+     margin: 0;
+     padding: 0%;
+     
+}
+
+
+
+
+
+
+header {
+    background-color:;
+    color: grey;
+    text-align: center;
+
+}
+
+
+
+
+
+
+main {
+
+    padding: 20px;
+}
+
+
+
+
+    @media (max-width: 600px) {
+
+
+
+
+
+
+
+body {
+    background-color:;
+
+}
+
+
+
+
+
+
+
+main {
+
+    color: ;
+
+    }
+    }
+
+
+@media (min-width: 601px) {
+
+
+    body{
+        background-color: ;
+
+        }
+        }
+
+
+        @media (min-width: 1000px)  {
+
+        Body{
+
+            background-color:rgb(88, 43, 109);
+
+            }
+
+            main {
+
+                padding: 100px;
+
+                }
+                }
+
+                section {
+                    background-color: rgb(201, 2, 2);
+                    color: rgb(250, 241, 241);
+                    text-align: center;
+                    padding: 20px;
+
+                }
+
+
+
+
+                .kolumn-1 { 
+
+                    
+                    
+                    color:
+                    text-align:
+                    padding:
+                    background-color:
+
+
+                }
+
+
+
+
+
+
+
+                .kolumn-2 {
+
+
+
+                    
+                    color:
+                    text-align:
+                    padding:
+                    background-color:
+
+
+                }
+
+
+
+
+
+
+
+                .kolumn-3 {
+
+
+
+                    
+                    color:
+                    text-align:
+                    padding:
+                    background-color:
+
+
+
+                }
+
+
+
+
+                .kolumn-4 {
+                    
+                    
+                    
+                    color:
+                    text-align:
+                    padding:
+                    background-color:
+
+
+                }
+
+
+
+
+
+
